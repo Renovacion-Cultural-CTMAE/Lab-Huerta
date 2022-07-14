@@ -7,7 +7,6 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-// Auth Token in the Blynk App.
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Credenciales del WIFI
