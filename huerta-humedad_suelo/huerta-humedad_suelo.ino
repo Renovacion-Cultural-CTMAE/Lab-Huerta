@@ -8,7 +8,7 @@
 #include <BlynkSimpleEsp32.h>
 
 // Auth Token in the Blynk App.
-char auth[] = "TuPHAneNtlAVRLy9AnB-fAri30XjI2cD";
+char auth[] = BLYNK_AUTH_TOKEN;
 
 // Credenciales del WIFI
 char ssid[] = "moto g(8)";
