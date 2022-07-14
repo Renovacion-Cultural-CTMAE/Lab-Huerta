@@ -30,7 +30,7 @@ void loop()
   Blynk.run();
   sensorValue = digitalRead(sensorPin);
   if (sensorValue == 1) {
-    Blynk.notify("I need water..");
+    Blynk.notify("Necesito agua");
   }
 
 }
